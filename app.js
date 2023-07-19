@@ -1,6 +1,6 @@
 (function (angular) {
   "use strict";
-  angular.module("Demo", ["ngRoute"])
+  angular.module("Demo", ["ngRoute",'ui.bootstrap'])
     .config(function ($routeProvider) {
       $routeProvider
         .when("/user", {
