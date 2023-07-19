@@ -1,6 +1,6 @@
 (function (angular) {
   "use strict";
-  angular.module("MiniECommerce")
+  angular.module("Demo")
     .component("user", {
       templateUrl: "components/user/user.html",
       controller: userController

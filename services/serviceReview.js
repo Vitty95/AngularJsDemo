@@ -1,5 +1,5 @@
 (function (angular) {
-  angular.module("MiniECommerce")
+  angular.module("Demo")
     .service("serviceReview", ["$http", function ($http) {
       this.getUser = async () => {
         const response = await $http({

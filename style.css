@@ -1,9 +1,4 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-input{
-    width: 250px;
+body {
+    background: rgb(255, 255, 255);
+    background: radial-gradient(circle, rgba(194, 0, 86, 0.9) 0%, rgba(0, 37, 77, 0.5) 80%);
 }
